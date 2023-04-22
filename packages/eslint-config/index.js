@@ -8,9 +8,9 @@ module.exports = {
     'standard-with-typescript'
   ],
   parserOptions: {
-    'ecmaVersion': 'latest',
-    'sourceType': 'module',
-    'project': ['tsconfig.json']
+    project: ['tsconfig.json'],
+    ecmaVersion: 'latest',
+    sourceType: 'module'
   },
   plugins: [
     'react'
@@ -35,11 +35,7 @@ module.exports = {
     ],
     'arrow-parens': [
       0
-    ],
-    'space-before-function-paren': [
-      'error',
-      'never'
-    ],
+    ]
   },
   'settings': {
     'react': {
