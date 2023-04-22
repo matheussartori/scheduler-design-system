@@ -1,5 +1,5 @@
 {
-  "name": "@matheussartori/scheduler-design-system-tokens",
+  "name": "@matheussartori/scheduler-design-system-react",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@matheussartori/scheduler-design-system-tokens": "*",
     "tsup": "^6.7.0",
     "typescript": "^5.0.4"
   }
