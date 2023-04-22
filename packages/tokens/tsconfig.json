@@ -1,4 +1,4 @@
 {
-  "extends": "@matheussartori/scheduler-design-tsconfig/base.json",
+  "extends": "@matheussartori/scheduler-design-system-ts-config/base.json",
   "include": ["src"]
 }
