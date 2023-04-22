@@ -1,5 +1,20 @@
 module.exports = {
-  extends: ['@rocketseat/eslint-config/react'],
+  env: {
+    'browser': true,
+    'es2021': true
+  },
+  extends: [
+    'plugin:react/recommended',
+    'standard-with-typescript'
+  ],
+  parserOptions: {
+    'ecmaVersion': 'latest',
+    'sourceType': 'module',
+    'project': ['tsconfig.json']
+  },
+  plugins: [
+    'react'
+  ],
   rules: {
     'react/react-in-jsx-scope': 'off',
     'indent': [
@@ -25,5 +40,10 @@ module.exports = {
       'error',
       'never'
     ],
+  },
+  'settings': {
+    'react': {
+      'version': 'detect'
+    }
   }
 }
