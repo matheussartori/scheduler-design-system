@@ -11,8 +11,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
+    "@matheussartori/scheduler-design-tsconfig": "*",
     "@matheussartori/scheduler-design-system-tokens": "*",
     "tsup": "^6.7.0",
     "typescript": "^5.0.4"

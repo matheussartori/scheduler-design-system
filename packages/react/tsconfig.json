@@ -1,0 +1,4 @@
+{
+  "extends": "@matheussartori/scheduler-design-tsconfig/react.json",
+  "include": ["src"]
+}
