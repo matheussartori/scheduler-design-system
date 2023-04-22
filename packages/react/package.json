@@ -14,9 +14,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@matheussartori/scheduler-design-system-eslint-config": "*",
     "@matheussartori/scheduler-design-system-tokens": "*",
     "@matheussartori/scheduler-design-system-ts-config": "*",
+    "@matheussartori/eslint-config-scheduler": "*",
     "rimraf": "^5.0.0",
     "tsup": "^6.7.0",
     "typescript": "^5.0.4"

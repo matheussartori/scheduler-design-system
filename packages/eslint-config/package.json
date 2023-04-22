@@ -1,6 +1,5 @@
 {
-  "name": "@matheussartori/scheduler-design-system-eslint-config",
-  "version": "1.0.0",
+  "name": "@matheussartori/eslint-config-scheduler",
   "license": "MIT",
   "private": true,
   "main": "index.js",
