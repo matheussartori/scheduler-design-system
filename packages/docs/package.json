@@ -13,6 +13,10 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@matheussartori/scheduler-design-system-react": "*",
+    "@matheussartori/scheduler-design-system-tokens": "*",
+    "@matheussartori/scheduler-design-system-ts-config": "*",
+    "@matheussartori/eslint-config-scheduler": "*",
     "@storybook/addon-essentials": "^7.0.6",
     "@storybook/addon-interactions": "^7.0.6",
     "@storybook/addon-links": "^7.0.6",

@@ -1,0 +1,6 @@
+{
+  "extends": "@matheussartori/eslint-config-scheduler",
+  "parserOptions": {
+    "project": ["./packages/docs/tsconfig.json"]
+  }
+}

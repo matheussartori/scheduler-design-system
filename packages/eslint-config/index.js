@@ -35,7 +35,8 @@ module.exports = {
     ],
     'arrow-parens': [
       0
-    ]
+    ],
+    '@typescript-eslint/consistent-type-assertions': 'off'
   },
   'settings': {
     'react': {
