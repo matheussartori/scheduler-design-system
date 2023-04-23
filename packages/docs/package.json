@@ -9,14 +9,15 @@
     "build": "storybook build"
   },
   "dependencies": {
+    "polished": "^4.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@matheussartori/eslint-config-scheduler": "*",
     "@matheussartori/scheduler-design-system-react": "*",
     "@matheussartori/scheduler-design-system-tokens": "*",
     "@matheussartori/scheduler-design-system-ts-config": "*",
-    "@matheussartori/eslint-config-scheduler": "*",
     "@storybook/addon-essentials": "^7.0.6",
     "@storybook/addon-interactions": "^7.0.6",
     "@storybook/addon-links": "^7.0.6",
