@@ -36,7 +36,8 @@ module.exports = {
     'arrow-parens': [
       0
     ],
-    '@typescript-eslint/consistent-type-assertions': 'off'
+    '@typescript-eslint/consistent-type-assertions': 'off',
+    '@typescript-eslint/strict-boolean-expressions': 'off'
   },
   'settings': {
     'react': {
