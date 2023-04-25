@@ -37,7 +37,8 @@ module.exports = {
       0
     ],
     '@typescript-eslint/consistent-type-assertions': 'off',
-    '@typescript-eslint/strict-boolean-expressions': 'off'
+    '@typescript-eslint/strict-boolean-expressions': 'off',
+    '@typescript-eslint/restrict-template-expressions': 'off'
   },
   'settings': {
     'react': {
