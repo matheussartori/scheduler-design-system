@@ -4,10 +4,16 @@ import { Avatar, type AvatarProps } from '@matheussartori/scheduler-design-syste
 export default {
   title: 'Data display/Avatar',
   component: Avatar,
-
   args: {
     src: 'https://github.com/matheussartori.png',
     alt: 'Matheus Sartori'
+  },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text'
+      }
+    }
   }
 } as Meta<AvatarProps>
 

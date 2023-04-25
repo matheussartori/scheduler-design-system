@@ -4,7 +4,6 @@ import { Box, Text, type BoxProps } from '@matheussartori/scheduler-design-syste
 export default {
   title: 'Surfaces/Box',
   component: Box,
-
   args: {
     children: (
       <>
@@ -13,6 +12,13 @@ export default {
         </Text>
       </>
     )
+  },
+  argTypes: {
+    children: {
+      control: {
+        type: null
+      }
+    }
   }
 } as Meta<BoxProps>
 
