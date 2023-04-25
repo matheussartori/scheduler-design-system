@@ -16,3 +16,5 @@ export function Avatar (props: AvatarProps): ReactNode {
     </AvatarContainer>
   )
 }
+
+Avatar.displayName = 'Avatar'

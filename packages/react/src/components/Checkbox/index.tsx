@@ -13,3 +13,5 @@ export function Checkbox (props: CheckboxProps): ReactNode {
     </CheckboxContainer>
   )
 }
+
+Checkbox.displayName = 'Checkbox'
