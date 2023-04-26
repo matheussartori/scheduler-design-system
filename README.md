@@ -11,9 +11,13 @@
 
 <img alt="License" src="https://img.shields.io/github/license/matheussartori/scheduler-design-system?color=%2393bb2a&style=flat-square">
 
-<img alt="NPM React Components" src="https://img.shields.io/npm/v/@matheussartori/scheduler-design-system-react?label=NPM%20-%20React%20Components&style=flat-square">
+<a href="https://www.npmjs.com/package/@matheussartori/scheduler-design-system-react" target="_blank">
+  <img alt="NPM React Components" src="https://img.shields.io/npm/v/@matheussartori/scheduler-design-system-react?label=NPM%20-%20React%20Components&style=flat-square">
+</a>
 
-<img alt="NPM Tokens" src="https://img.shields.io/npm/v/@matheussartori/scheduler-design-system-tokens?label=NPM%20-%20Tokens&style=flat-square">
+<a href="https://www.npmjs.com/package/@matheussartori/scheduler-design-system-tokens" target="_blank">
+  <img alt="NPM Tokens" src="https://img.shields.io/npm/v/@matheussartori/scheduler-design-system-tokens?label=NPM%20-%20Tokens&style=flat-square">
+</a>
 
 <p align="center">
   <a href="#installation">Installation</a><br>
