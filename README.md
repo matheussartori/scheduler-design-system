@@ -9,13 +9,15 @@
 <blockquote align="center">This is a Design System used for the Scheduler App that i'm building. It was made mainly to understand how the process of building the design system is done.</blockquote>
 <br>
 
-<img alt="License" src="https://img.shields.io/github/license/matheussartori/scheduler-design-system?color=%2393bb2a&style=flat-square">
+<a href="./LICENSE">
+  <img alt="License" src="https://img.shields.io/github/license/matheussartori/scheduler-design-system?color=%2393bb2a&style=flat-square">
+</a>
 
-<a href="https://www.npmjs.com/package/@matheussartori/scheduler-design-system-react" target="_blank">
+<a href="https://www.npmjs.com/package/@matheussartori/scheduler-design-system-react">
   <img alt="NPM React Components" src="https://img.shields.io/npm/v/@matheussartori/scheduler-design-system-react?label=NPM%20-%20React%20Components&style=flat-square">
 </a>
 
-<a href="https://www.npmjs.com/package/@matheussartori/scheduler-design-system-tokens" target="_blank">
+<a href="https://www.npmjs.com/package/@matheussartori/scheduler-design-system-tokens">
   <img alt="NPM Tokens" src="https://img.shields.io/npm/v/@matheussartori/scheduler-design-system-tokens?label=NPM%20-%20Tokens&style=flat-square">
 </a>
 
